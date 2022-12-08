@@ -1,0 +1,29 @@
+{
+  "name": "PandasHouseOfPainModPack",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/shallox/PandasHouseOfPainModPack",
+  "description": "Mod pack for Pandas House of Pain - Valheim server.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901",
+    "ASharpPen-Custom_Raids-1.6.3",
+    "The_Bees_Decree-VALKEA-2.1.4",
+    "ValheimModding-Jotunn-2.10.0",
+    "KGvalheim-Marketplace_And_Server_NPCs_Revamped-8.2.1",
+    "Smoothbrain-ServerCharacters-1.3.3",
+    "VentureValheim-Venture_ServerSync-1.0.0",
+    "OdinPlus-PotionPlus-4.1.9",
+    "WackyMole-WackysDatabase-1.3.2",
+    "abearcodes-CraftingWithContainers-1.0.14",
+    "RandyKnapp-EpicLoot-0.8.10",
+    "Smoothbrain-TargetPortal-1.1.6",
+    "Smoothbrain-AntiCensorship-1.0.2",
+    "Azumatt-AzuAntiCheat-4.1.0",
+    "Advize-PlantEverything-1.12.0",
+    "Smoothbrain-Farming-2.1.3",
+    "Smoothbrain-Groups-1.1.11",
+    "Smoothbrain-Network-1.0.1",
+    "OdinPlus-Skillin_It_Softly-1.3.2",
+    "Smoothbrain-ConfigWatcher-1.0.1",
+    "Smoothbrain-Backpacks-1.0.0"
+  ]
+}
