@@ -9,7 +9,7 @@ Server info coming.
 
 ***
 
-## v1.0.0
-- Initial mod dependancie list, final list to come.
+## v1.1.1
+- Update mod dependancie list, final list to come.
 - For testing purposes.
 ***
